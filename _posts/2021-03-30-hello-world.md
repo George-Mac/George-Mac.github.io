@@ -25,7 +25,7 @@ image:
 ```c++
 //代码片段
 int main(){
-  cout<<"hello world"<<endl;
+  cout<<"hello world. This is my first blog"<<endl;
 }
 ```
 
