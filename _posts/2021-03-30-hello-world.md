@@ -8,7 +8,8 @@ author: lnx
 
 toc: true
 comments: true
-typora-root-url: ../../tomstillcoding.github.io
+typora-root-url: ../../George-Mac.github.io
+#../../tomstillcoding.github.io
 math: false
 mermaid: true
 
