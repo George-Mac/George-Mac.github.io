@@ -26,7 +26,7 @@ mermaid: true
 ```c++
 //代码片段
 int main(){
-  cout<<"hello world. This is my first blog"<<endl;
+  cout<<"Hello world! This is my first blog."<<endl;
 }
 ```
 
