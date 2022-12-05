@@ -4,7 +4,7 @@ date: 2022-03-31 10:34:00 +0800
 categories: [随笔]
 tags: [生活]
 pin: true
-author: lnx
+author: George Li
 
 toc: true
 comments: true
